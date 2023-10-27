@@ -9,6 +9,7 @@ const Publications = () => {
         <div className="about_content">
           <div className="pub_container">
             <h4 className="coming_coon">COMING SOON ....................</h4>
+            <br />
           </div>
         </div>
       </div>
