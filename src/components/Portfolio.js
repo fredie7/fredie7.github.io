@@ -4,10 +4,11 @@ import Sidebar from "./Sidebar";
 
 const Portfolio = () => {
   return (
-    <div className="about_container">
+    <div className="layout_container">
       <Sidebar />
       <div className="about_wrapper portfolio_wrap">
         <div className="about_content">
+          <h4 className="see_portfolio">PORTFOLIO PROJECTS</h4>
           <div className="academic abt">
             <h4 className="academic_experience proj">PROJECTS</h4>
             <br />
@@ -15,7 +16,7 @@ const Portfolio = () => {
             <h4 className="academic_experience">
               DIABETES DIAGNOSTIC APPLICATION PROJECT
             </h4>
-            <p className="academic_exp">
+            <div className="academic_exp">
               A diabetes diagnostics application implemented using decision tree
               classifier which accurately predicts the diabetic status of
               patients with regards to being diabetic, non-diabetic nor
@@ -68,7 +69,7 @@ const Portfolio = () => {
                   https://github.com/fredie7/diabetes_diagnostics_api/blob/main/Untitled.ipynb
                 </p>
               </Link>
-            </p>
+            </div>
           </div>
           <div className="professional abt">
             <h4 className="professional_experience">

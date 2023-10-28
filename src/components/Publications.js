@@ -3,7 +3,7 @@ import Sidebar from "./Sidebar";
 
 const Publications = () => {
   return (
-    <div className="about_container">
+    <div className="layout_container">
       <Sidebar />
       <div className="about_wrapper">
         <div className="about_content">
