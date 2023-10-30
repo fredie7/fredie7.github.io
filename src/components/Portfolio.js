@@ -66,7 +66,7 @@ const Portfolio = () => {
                 style={{ textDecoration: "none" }}
               >
                 <p className="diabetes_linkk">
-                  https://github.com/fredie7/diabetes_diagnostics_api/blob/main/Untitled.ipynb
+                  https://github.com/fredie7/diabetes_diagnostics_api/blob/main/diabetes_analysis.ipynb
                 </p>
               </Link>
             </div>
