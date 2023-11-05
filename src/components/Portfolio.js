@@ -59,7 +59,7 @@ const Portfolio = () => {
               <br />
               <Link
                 to={
-                  "https://github.com/fredie7/diabetes_diagnostics_api/blob/main/Untitled.ipynb"
+                  "https://github.com/fredie7/diabetes_diagnostics_api/blob/main/diabetes_analysis.ipynb"
                 }
                 target="_blank"
                 rel="noopener noreferrer"
